@@ -14,8 +14,7 @@ CMUSphinx Automatic Speech Recogniser (ASR) as training datasets. The classifers
 dataset and tested on manually transcribed first utterance of 911 calls and were
 evaluated on classification accuracy and F-score. Furthermore, these classiers were
 trained on three different features vectors from Bag-of-words, tf-idf weighting and
-word2vec model of Google ASR generated dataset to verify if word2vec features vec-
-tors improve classifier's accuracy. The result showed there was no improvement in
+word2vec model of Google ASR generated dataset to verify if word2vec features vectors improve classifier's accuracy. The result showed there was no improvement in
 classification accuracy when word2vec features vectors were used. Support Vector
 Machines achieved the highest classification accuracy of 73% when feature vectors
 of bag-of-words from Google ASR generated dataset were used for training.
