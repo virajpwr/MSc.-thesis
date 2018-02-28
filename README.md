@@ -1,2 +1,2 @@
 # MSc.-thesis
-Triage of 911 emergency calls
+Speech utterance classification for triage of 911 emergency calls
